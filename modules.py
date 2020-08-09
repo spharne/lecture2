@@ -1,2 +1,2 @@
-from functions import square
+from functions1 import square
 print (square(10))
